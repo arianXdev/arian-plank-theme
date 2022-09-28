@@ -9,8 +9,9 @@ My Favorite Theme for Plank Dock
 
 <a style="display: block" href="https://www.pling.com/p/1911700/"><img
     src="https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-1.png"
-    width='640"' /></a>
+    width='650"' /></a>
 
+<br>
 <br>
 
 ![Linux Icon](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
