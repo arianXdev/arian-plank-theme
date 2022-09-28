@@ -1,4 +1,5 @@
-# github.com/aryanhosseini
+# Author: Arian H
+# Github: https://github.com/aryanhosseini
 
 [PlankTheme]
 #The roundness of the top corners.
@@ -10,9 +11,9 @@ LineWidth=1
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=25;;25;;25;;100
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=46;;52;;58;;200
+FillStartColor=46;;50;;50;;150
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=46;;52;;58;;200
+FillEndColor=46;;50;;50;;150
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=50;;50;;50;;100
 
