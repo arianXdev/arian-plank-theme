@@ -7,10 +7,9 @@ My Favorite Theme for Plank Dock
     width='140"' /></a>
     
 
-
-<a href="https://www.pling.com/p/1911700/"><img align="left"
+<a style="display: block" href="https://www.pling.com/p/1911700/"><img
     src="https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-1.png"
-    width='800"' /></a>
+    width='700"' /></a>
 
 <br>
 
