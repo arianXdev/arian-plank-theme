@@ -4,12 +4,12 @@ My Favorite Theme for Plank Dock
 
 <a href="https://www.pling.com/p/1911700/"><img align="right"
     src="https://www.pling.com/stores/media/store_pling/pling-logo.png"
-    width='140"' /></a>
+    width='130"' /></a>
     
 
 <a style="display: block" href="https://www.pling.com/p/1911700/"><img
     src="https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-1.png"
-    width='630"' /></a>
+    width='640"' /></a>
 
 <br>
 
