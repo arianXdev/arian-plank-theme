@@ -10,9 +10,9 @@ case "$answer" in
     echo "Installing... Please wait!"
 
     if [ -d $PLANK_DIR ]; then
-		cp -Ri ./"Arian Theme" $PLANK_DIR
+			cp -Ri ./"Arian Theme" $PLANK_DIR && cp -Ri ./"Arian Theme Light" $PLANK_DIR
+            
 		echo "Done!"
-
             read -p "Arian theme for Plank has been installed successfully! Do you want to open Plank preferences?" answer
 
             case "$answer" in
