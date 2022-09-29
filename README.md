@@ -13,7 +13,12 @@ My Favorite Theme for Plank Dock
     
 
 <a style="display: block" href="https://www.pling.com/p/1911700/"><img
-    src="https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-1.png"
+    src="screenshots/screenshot-1.png"
+    width='650"' /></a>
+    
+    
+<a style="display: block" href="https://www.pling.com/p/1911700/"><img
+    src="screenshots/screenshot-2.png"
     width='650"' /></a>
 
 <br>
@@ -41,7 +46,7 @@ sh install.sh
 ## Screentshots
 
 
-![screenshot 1](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-2.png)
+![screenshot 3](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-3.png)
 
-![screenshot 1](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-3.png)
+![screenshot 4](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-4.png)
 
