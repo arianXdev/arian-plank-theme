@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.pling.com/p/1911700/"><img src="icon.png" height="190px"></a>
+<a href="https://www.pling.com/p/1911700/" target="_blank"><img src="icon.png" height="190px"></a>
 <p>
   <h1 align="center"> Arian Theme for Plank Dock </h1> 
 
