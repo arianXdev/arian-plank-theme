@@ -1,6 +1,11 @@
-# Arian Plank Dock Theme
-My Favorite Theme for Plank Dock
+<p align="center">
+<a href="https://www.pling.com/p/1911700/"><img src="icon.png" height="190px"></a>
+<p>
+  <h1 align="center"> Arian Theme for Plank Dock </h1> 
 
+
+
+My Favorite Theme for Plank Dock
 
 <a href="https://www.pling.com/p/1911700/"><img align="right"
     src="https://www.pling.com/stores/media/store_pling/pling-logo.png"
@@ -12,6 +17,14 @@ My Favorite Theme for Plank Dock
     width='650"' /></a>
 
 <br>
+
+
+### How to install Arian Theme for Plank:
+```Shell
+git clone https://github.com/aryanhosseini/arian-plank-theme.git
+cd arian-plank-theme/
+sh install.sh 
+```
 <br>
 
 ![Linux Icon](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -21,6 +34,9 @@ My Favorite Theme for Plank Dock
 ![Linux Icon](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
 ![Linux Icon](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Icon](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+
+
+
 
 ## Screentshots
 
