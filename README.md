@@ -26,7 +26,7 @@ My Favorite Theme for Plank Dock
 
 ### How to install Arian Theme for Plank:
 ```Shell
-git clone https://github.com/aryanhosseini/arian-plank-theme.git
+git clone https://github.com/ryanhosseini/arian-plank-theme.git
 cd arian-plank-theme/
 sh install.sh 
 ```
@@ -46,7 +46,7 @@ sh install.sh
 ## Screentshots
 
 
-![screenshot 3](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-3.png)
+![screenshot 3](https://github.com/ryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-3.png)
 
-![screenshot 4](https://github.com/aryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-4.png)
+![screenshot 4](https://github.com/ryanhosseini/arian-plank-theme/blob/main/screenshots/screenshot-4.png)
 
