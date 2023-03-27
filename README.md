@@ -24,12 +24,23 @@ My Favorite Theme for Plank Dock
 <br>
 
 
-### How to install Arian Theme for Plank:
+## Installation
+To Install Arian Plank Theme, Check out the following guide:
+
+### Arch Linux (AUR)
+If you're on ArchLinux, You can simply install the package using the AUR, Feel free to use your favorite AUR Helper
+```Shell
+paru -S plank-theme-arian-git
+yay -S plank-theme-arian-git
+```
+
+### Other Distributions / Manually
 ```Shell
 git clone https://github.com/ryanhosseini/arian-plank-theme.git
 cd arian-plank-theme/
 sh install.sh 
 ```
+
 <br>
 
 ![Linux Icon](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
