@@ -7,6 +7,8 @@
   
   [![plank-theme-arian-git](https://img.shields.io/aur/version/plank-theme-arian-git?color=1793d1&label=plank-theme-arian-git&logo=arch-linux&style=for-the-badge)](https://aur.archlinux.org/packages/plank-theme-arian-git/)
   
+  [![plank-theme-arian-git](https://img.shields.io/aur/maintainer/plank-theme-arian-git?color=1793d1&label=plank-theme-arian-git&logo=arch-linux&style=for-the-badge)](https://aur.archlinux.org/packages/plank-theme-arian-git/)
+  
   </h2>
 
 
