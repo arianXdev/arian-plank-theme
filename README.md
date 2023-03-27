@@ -1,11 +1,18 @@
 <p align="center">
 <a href="https://www.pling.com/p/1911700/" target="_blank"><img src="icon.png" width="190px"></a>
+
 <p>
   <h1 align="center"> Arian Theme for Plank Dock </h1> 
+  <h2 align="center">
+  
+  [![plank-theme-arian-git](https://img.shields.io/aur/version/plank-theme-arian-git?color=1793d1&label=plank-theme-arian-git&logo=arch-linux&style=for-the-badge)](https://aur.archlinux.org/packages/plank-theme-arian-git/)
+  
+  </h2>
 
 
 
-My Favorite Theme for Plank Dock
+My Favorite Theme for Plank Dock 
+
 
 <a href="https://www.pling.com/p/1911700/"><img align="right"
     src="https://www.pling.com/stores/media/store_pling/pling-logo.png"
