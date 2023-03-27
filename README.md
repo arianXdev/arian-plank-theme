@@ -34,14 +34,18 @@ My Favorite Theme for Plank Dock
 
 
 ## Installation
-To Install Arian Plank Theme, Check out the following guide:
+To Install Arian Plank Theme, Check out the following guide
 
 ### Arch Linux (AUR)
-If you're on ArchLinux, You can simply install the package using the AUR, Feel free to use your favorite AUR Helper
+If you're on Arch Linux, You can simply install the package from the AUR, Feel free to use your favorite AUR Helper
 ```Shell
 paru -S plank-theme-arian-git
 yay -S plank-theme-arian-git
 ```
+
+![Linux Icon](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux Icon](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) 
+![Linux Icon](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white) 
 
 ### Other Distributions / Manually
 ```Shell
@@ -50,17 +54,14 @@ cd arian-plank-theme/
 sh install.sh 
 ```
 
-<br>
-
 ![Linux Icon](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Linux Icon](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Linux Icon](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) 
 ![Linux Icon](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
 ![Linux Icon](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
+![Linux Icon](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Linux Icon](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Icon](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
-
+<br>
 
 
 ## Screentshots
